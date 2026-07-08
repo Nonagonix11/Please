@@ -1,6 +1,6 @@
 why should i hire math? #to import a file. the first line of said file should state a reason to be hired
 
-func // hey, no swearing! >:(// tsundere main() { #yes the no swearing thing is required. also the tsundere is like c's int, void, etc... and means it runs when it feels like it (which is better than it not running at all) 
+func // hey, no swearing! >:(// tsundere main() { #yes the no swearing thing is required. also the tsundere is like c's int, void, etc... and means it runs... eventually (which is better than it not running at all) 
 say hello please #ill think about it. only works the first time, cant say the same thing twice. also say please to end a statement
 
 x = 2 at 0x0000000001 please #declare actual memory adresses. hopefully nothing important is there :)
